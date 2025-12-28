@@ -19,8 +19,8 @@ import 'package:image_picker/image_picker.dart';
 import 'dart:async';
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
-import 'package:get_thumbnail_video/index.dart';
-import 'package:get_thumbnail_video/video_thumbnail.dart';
+//import 'package:get_thumbnail_video/index.dart';
+//import 'package:get_thumbnail_video/video_thumbnail.dart';
 
 enum SenderType {
   customer,
@@ -490,7 +490,7 @@ List <XFile>?  pickedImageFileStored = [];
   Future<String?> generateThumbnail(String filePath) async {
     final directory = await getTemporaryDirectory();
 
-    final thumbnailPath = await VideoThumbnail.thumbnailFile(
+/*    final thumbnailPath = await VideoThumbnail.thumbnailFile(
       video: filePath, // Replace with your video URL
       thumbnailPath: directory.path,
       imageFormat: ImageFormat.PNG,
@@ -499,7 +499,7 @@ List <XFile>?  pickedImageFileStored = [];
       quality: 1,
     );
 
-    return thumbnailPath.path;
+    return thumbnailPath.path;*/
   }
 
 
