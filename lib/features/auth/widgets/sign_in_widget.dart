@@ -23,7 +23,7 @@ import 'package:simple_barcode_scanner/simple_barcode_scanner.dart';
 
 import 'otp_verification_screen.dart';
 
-import 'package:flutter_barcode_scanner/flutter_barcode_scanner.dart';
+//import 'package:flutter_barcode_scanner/flutter_barcode_scanner.dart';
 
 
 class SignInWidget extends StatefulWidget {
@@ -237,7 +237,7 @@ class SignInWidgetState extends State<SignInWidget> {
           const SizedBox(width: Dimensions.paddingSizeDefault),
 
 
-          InkWell(onTap: () async {
+          /*InkWell(onTap: () async {
 
             var barcodeScanRes = await FlutterBarcodeScanner.scanBarcode(
                 '#ff6666', 'Cancel', true, ScanMode.QR);
@@ -276,7 +276,7 @@ class SignInWidgetState extends State<SignInWidget> {
               ),
             ),
 
-          ),
+          ),*/
 
           //  const SocialLoginWidget(),
 
