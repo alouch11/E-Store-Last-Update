@@ -90,7 +90,10 @@ dependencies:
   table_calendar: ^3.0.9
   model_viewer_plus: ^1.7.2
   flutter_3d_controller: ^2.0.2
-  get_thumbnail_video: ^0.6.1
+  get_thumbnail_video: # ^0.6.1
+    git:
+      url: https://github.com/agufagit/video_thumbnail
+      ref: master
   flutter_barcode_scanner: ^2.0.0
   receive_intent: ^0.2.7
   side_sheet: ^1.0.4+1
