@@ -90,7 +90,7 @@ dependencies:
   table_calendar: ^3.0.9
   model_viewer_plus: ^1.7.2
   flutter_3d_controller: ^2.0.2
-   get_thumbnail_video: # ^0.7.3
+  get_thumbnail_video: # ^0.7.3
     git:
       url: https://github.com/agufagit/video_thumbnail
       ref: master
