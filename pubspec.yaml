@@ -90,13 +90,12 @@ dependencies:
   table_calendar: ^3.0.9
   model_viewer_plus: ^1.7.2
   flutter_3d_controller: ^2.0.2
-  get_thumbnail_video: ^0.6.1
+  get_thumbnail_video: ^0.7.3
   flutter_barcode_scanner: ^2.0.0
   receive_intent: ^0.2.7
   side_sheet: ^1.0.4+1
   pdfrx: ^1.0.94
   youtube_player_flutter: ^9.0.4
-  get_thumbnail_video: ^0.7.3
 
 dev_dependencies:
   flutter_lints: ^4.0.0
