@@ -96,6 +96,7 @@ dependencies:
   side_sheet: ^1.0.4+1
   pdfrx: ^1.0.94
   youtube_player_flutter: ^9.0.4
+  get_thumbnail_video: ^0.7.3
 
 dev_dependencies:
   flutter_lints: ^4.0.0
