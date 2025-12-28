@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "219827947482",
+    "firebase_url": "https://sdp-cmmsmobile-v3-default-rtdb.firebaseio.com",
+    "project_id": "sdp-cmmsmobile-v3",
+    "storage_bucket": "sdp-cmmsmobile-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219827947482:android:0f51c4e407712adf0e22e3",
+        "android_client_info": {
+          "package_name": "com.sp.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219827947482-5ljtjimsdi00k1vit8cbubfirrgm0s53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDAXuH93opqGSaDnJz4pExgj1ZqvOTEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117227163671518263896",
+              "client_type": 3
+            },
+            {
+              "client_id": "219827947482-d2guovhkpk5focmgvb78b02t6squqdgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.cmdbuild.cmdbuildmobile.v3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219827947482:android:2f5c3b771de7e64c0e22e3",
+        "android_client_info": {
+          "package_name": "com.sp.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219827947482-esqjdv3pgo5nrqd3m783ipbrdhnp4pih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sp.storeapp",
+            "certificate_hash": "8a8738996ff06a771bebe66285d5528b50e1af9c"
+          }
+        },
+        {
+          "client_id": "219827947482-rp5uod1kkdhqagu6noo427c0da6mbkum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sp.storeapp",
+            "certificate_hash": "5a9b2fb86715ed1cc6880574586d04f7bdb91d67"
+          }
+        },
+        {
+          "client_id": "219827947482-5ljtjimsdi00k1vit8cbubfirrgm0s53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDAXuH93opqGSaDnJz4pExgj1ZqvOTEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117227163671518263896",
+              "client_type": 3
+            },
+            {
+              "client_id": "219827947482-d2guovhkpk5focmgvb78b02t6squqdgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.cmdbuild.cmdbuildmobile.v3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
